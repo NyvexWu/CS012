@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Desktop\CS012\week 2\lab_2.11\lab_2.11\lab_2.11\main.cpp(45,46): error C2446: '==': no conversion from 'const char [2]' to 'int'
+C:\Users\user\Desktop\CS012\week 2\lab_2.11\lab_2.11\lab_2.11\main.cpp(45,43): message : There is no context in which this conversion is possible
